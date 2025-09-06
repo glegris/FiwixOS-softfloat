@@ -1,0 +1,111 @@
+3070,3117c3070,3071
+< am__objects_155 =  \
+< 	libm/ld/libm_a-e_acoshl.$(OBJEXT) \
+< 	libm/ld/libm_a-e_acosl.$(OBJEXT) \
+< 	libm/ld/libm_a-e_asinl.$(OBJEXT) \
+< 	libm/ld/libm_a-e_atan2l.$(OBJEXT) \
+< 	libm/ld/libm_a-e_atanhl.$(OBJEXT) \
+< 	libm/ld/libm_a-e_coshl.$(OBJEXT) \
+< 	libm/ld/libm_a-e_fmodl.$(OBJEXT) \
+< 	libm/ld/libm_a-e_lgammal.$(OBJEXT) \
+< 	libm/ld/libm_a-e_remainderl.$(OBJEXT) \
+< 	libm/ld/libm_a-e_sinhl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_asinhl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_atanl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_cbrtl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_ceill.$(OBJEXT) \
+< 	libm/ld/libm_a-s_copysignl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_cosl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_fabsl.$(OBJEXT) \
+< 	libm/ld/libm_a-fdiml.$(OBJEXT) \
+< 	libm/ld/libm_a-s_floorl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_fmal.$(OBJEXT) \
+< 	libm/ld/libm_a-s_fmaxl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_fminl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_frexpl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_ilogbl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_llrintl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_llroundl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_logbl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_lrint.$(OBJEXT) \
+< 	libm/ld/libm_a-s_lrintl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_lround.$(OBJEXT) \
+< 	libm/ld/libm_a-s_lroundl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_modfl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_nearbyintl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_nextafterl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_nexttoward.$(OBJEXT) \
+< 	libm/ld/libm_a-s_nexttowardf.$(OBJEXT) \
+< 	libm/ld/libm_a-s_remquol.$(OBJEXT) \
+< 	libm/ld/libm_a-s_rintl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_roundl.$(OBJEXT) \
+< 	libm/ld/libm_a-scalblnl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_scalbnl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_sinl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_tanhl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_tanl.$(OBJEXT) \
+< 	libm/ld/libm_a-s_truncl.$(OBJEXT)
+< am__objects_156 =  \
+< 	$(am__objects_155)
+---
+> am__objects_155 =  
+> am__objects_156 =  
+3386,3423c3340,3341
+< am__objects_169 = libm/machine/i386/libm_a-f_atan2.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-f_atan2f.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-f_exp.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-f_expf.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-f_frexp.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-f_frexpf.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-f_llrint.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-f_llrintf.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-f_llrintl.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-f_log.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-f_logf.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-f_log10.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-f_log10f.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-f_ldexp.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-f_ldexpf.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-f_lrint.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-f_lrintf.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-f_lrintl.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-f_pow.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-f_powf.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-f_rint.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-f_rintf.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-f_rintl.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-f_tan.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-f_tanf.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-fenv.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-feclearexcept.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-fegetenv.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-fegetexceptflag.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-fegetround.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-feholdexcept.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-feraiseexcept.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-fesetenv.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-fesetexceptflag.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-fesetround.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-fetestexcept.$(OBJEXT) \
+< 	libm/machine/i386/libm_a-feupdateenv.$(OBJEXT)
+< am__objects_170 = $(am__objects_169)
+---
+> am__objects_169 = 
+> am__objects_170 =
+3436,3448c3354,3355
+< am__objects_171 = libm/ld80/libm_a-b_tgammal.$(OBJEXT) \
+< 	libm/ld80/libm_a-e_powl.$(OBJEXT) \
+< 	libm/ld80/libm_a-s_erfl.$(OBJEXT) \
+< 	libm/ld80/libm_a-s_exp2l.$(OBJEXT) \
+< 	libm/ld80/libm_a-s_expl.$(OBJEXT) \
+< 	libm/ld80/libm_a-s_logl.$(OBJEXT) \
+< 	libm/ld80/libm_a-s_sinpil.$(OBJEXT) \
+< 	libm/ld80/libm_a-s_cospil.$(OBJEXT) \
+< 	libm/ld80/libm_a-invtrig.$(OBJEXT) \
+< 	libm/ld80/libm_a-e_lgammal_r.$(OBJEXT) \
+< 	libm/ld80/libm_a-k_cosl.$(OBJEXT) \
+< 	libm/ld80/libm_a-k_sinl.$(OBJEXT)
+< am__objects_172 = $(am__objects_171)
+---
+> am__objects_171 = 
+> am__objects_172 = 
